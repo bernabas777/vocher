@@ -1,7 +1,7 @@
 {
   "name": "vocher",
   "version": "1.0.0",
-  "description": " vocher",
+  "description": "vocher ",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
@@ -17,3 +17,4 @@
     "nodemon": "^3.0.1"
   }
 }
+
